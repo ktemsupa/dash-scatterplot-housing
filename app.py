@@ -9,8 +9,8 @@ import pandas as pd
 tabtitle = 'DC Housing'
 myheading='Analysis of housing prices in Washington DC'
 neighborhood='Georgetown'
-color1='#32a852'
-color2='#a89a32'
+color1='#9b34eb'
+color2='#eb34cc'
 sourceurl = 'https://www.kaggle.com/christophercorrea/dc-residential-properties/'
 githublink = 'https://github.com/ktemsupa/dash-scatterplot-housing'
 
